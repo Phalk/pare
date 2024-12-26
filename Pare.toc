@@ -1,0 +1,18 @@
+﻿## Interface: 110007
+## Title: Pare! Interrupt Announcer
+## Author: Phalk
+## Version: 11007
+## Notes: A simple spell interrupt announcer.
+## Notes-ptBR: Um simples anunciador de interrupções de habilidades.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: parechannel,showskill,showtarget,pareenabled
+
+## AddonCompartmentFunc: pareToggle
+
+
+## IconTexture: Interface\AddOns\Pare\pare.blp
+
+Pare.lua
+
+embeds.xml
